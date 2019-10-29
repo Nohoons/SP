@@ -1,0 +1,4 @@
+#!/bin/bash
+echo The date is:
+date
+echo "Let see"
